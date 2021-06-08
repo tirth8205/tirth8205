@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://svgshare.com/i/Xyk.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://svgshare.com/i/Xzx.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://twitter.com/tirth_8205"> 
   <img align="left" alt="Tirth Kanani | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
