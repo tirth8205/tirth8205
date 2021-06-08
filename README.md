@@ -9,4 +9,26 @@
 - 🌱 I’m currently learning web development, machine learning and various other programming languages
 - 👯 Looking forward towards Project Collaboration
 
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://twitter.com/tirth_8205"> 
+  <img align="left" alt="Tirth Kanani | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/ptcgDDfaN5">
+  <img align="left" alt="Harsh's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+<a href="mailto:harshpatel.hp908@gmail.com"><img src="https://img.shields.io/badge/-harshpatel.hp908@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:harshpatel.hp908@gmail.com@gmail.com" alt="Gmail Badge">
+</a>
+
+[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/tirth-bharatbhai-kanani-b5194118b//
+[instagram]: https://www.instagram.com/tirth_8205/
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth8205&theme=light)
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirth8205&count_private=true)
+
+
 
