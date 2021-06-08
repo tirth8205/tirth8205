@@ -17,12 +17,12 @@
   <img align="left" alt="Tirth Kanani | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/ptcgDDfaN5">
-  <img align="left" alt="Harsh's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Tirth's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="mailto:tirthkanani18@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:tirthkanani18@gmail.com" alt="Gmail Badge">
 </a>
 
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/tirth-bharatbhai-kanani-b5194118b//
+[linkedin]: https://www.linkedin.com/in/tirth-bharatbhai-kanani-b5194118b/
 [instagram]: https://www.instagram.com/tirth_8205/
 
 ## GitHub Stats
