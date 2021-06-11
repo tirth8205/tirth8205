@@ -10,7 +10,7 @@
 - 👯 Looking forward towards Project Collaboration
 - 😉 Here's something fun: 
   
-<img src="https://readme-jokes.vercel.app/api?bgColor=white&qColor=black&aColor=black&borderColor=black&quoteColor=black&codeColor=black&textColor=black" alt="Something Fun">
+<img src="https://readme-jokes.vercel.app/api?bgColor=white&qColor=black&aColor=black&borderColor=white&quoteColor=black&codeColor=black&textColor=black" alt="Something Fun">
 
 
 
