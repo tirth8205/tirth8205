@@ -33,7 +33,7 @@
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth8205&count_private=true)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirth8205&count_private=true)
+![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirth8205&count_private=true)
 
 
 
