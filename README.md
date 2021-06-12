@@ -31,9 +31,9 @@
 [instagram]: https://www.instagram.com/tirth_8205/
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth8205&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth8205&show_icons=true&count_private=true)
 
-![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirth8205&count_private=true)
+![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirth8205&show_icons=true&count_private=true)
 
 
 
