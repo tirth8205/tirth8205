@@ -4,9 +4,8 @@
 
 ### I like to help my friends. So if you need anything, just call 📲  email ✉️  or shine a big Batman-style TJS in the sky and I'll be all over it!
 
-
-- 🔭 I’m currently working on various projects that are recognised by university and state government
-- 🌱 I’m currently learning web development, machine learning and various other programming languages
+- 🔭 Currently, I'm immersed in multiple projects with recognition from both academic institutions and governmental bodies, focusing on advanced areas within Computer Science, including Machine Learning, Artificial Intelligence, and Data Analytics.
+- 🌱 Actively pursuing proficiency in web development alongside deep dives into the intricacies of Machine Learning algorithms, as well as mastering various programming languages to enhance my expertise in these domains.
 - 👯 Looking forward towards Project Collaboration
 - 😉 Here's something fun: 
   
@@ -27,7 +26,7 @@
 <a href="mailto:tirthkanani18@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:tirthkanani18@gmail.com" alt="Gmail Badge">
 </a>
 
-[linkedin]: https://www.linkedin.com/in/tirth-bharatbhai-kanani-b5194118b/
+[linkedin]: https://www.linkedin.com/in/tirthkanani/
 [instagram]: https://www.instagram.com/tirth_8205/
 
 ## GitHub Stats
