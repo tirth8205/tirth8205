@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 
 ## You love coding - I love coding, that makes us friends! 🤝
 
