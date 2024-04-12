@@ -7,7 +7,7 @@
 - 🔭 Currently, I'm immersed in multiple projects with recognition from both academic institutions and governmental bodies, focusing on advanced areas within Computer Science, including Machine Learning, Artificial Intelligence, and Data Analytics.
 - 🌱 Actively pursuing proficiency in web development alongside deep dives into the intricacies of Machine Learning algorithms, as well as mastering various programming languages to enhance my expertise in these domains.
 - 👯 Looking forward towards Project Collaboration
-- 😉 Here's something fun: 
+- 😉 Here's something for fun: 
   
 <img src="https://readme-jokes.vercel.app/api?bgColor=white&qColor=black&aColor=black&borderColor=white&quoteColor=black&codeColor=black&textColor=black" alt="Something Fun">
 
