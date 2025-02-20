@@ -1,6 +1,6 @@
 # Hi There 👋
 
-## Passionate AI/ML Researcher 🧠🚀
+## AI/ML Researcher 🧠🚀
 
 I am **Tirth Kanani**, an **AI/ML Researcher** specializing in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**. I thrive on advancing **transformer-based architectures, knowledge graphs, and AI explainability** to create impactful solutions.
 
@@ -15,7 +15,7 @@ I am **Tirth Kanani**, an **AI/ML Researcher** specializing in **Machine Learnin
 - **Knowledge Graphs & AI Reasoning** – Structuring data for **enhanced semantic retrieval**
 - **Explainable AI (XAI)** – Ensuring **transparency, interpretability, and fairness in ML**
 - **AI for Good** – Applying AI to **healthcare, automation, and decision intelligence**
-- 
+
 ---
 
 🚀 Committed to shaping the future of **AI & ML with innovation and integrity!**
