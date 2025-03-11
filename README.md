@@ -2,7 +2,7 @@
 
 ## AI/ML Engineer 🧠🚀
 
-I am **Tirth Kanani**, an **AI/ML Researcher** specializing in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**. I thrive on advancing **transformer-based architectures, knowledge graphs, and AI explainability** to create impactful solutions.
+I am **Tirth Kanani**, an **AI/ML Engineer** specializing in **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**. I thrive on advancing **transformer-based architectures, knowledge graphs, and AI explainability** to create impactful solutions.
 
 ### 🔍 About Me
 - 🎓 **MSc (Distinction) in Human-Computer Interaction**, *University of Birmingham*
