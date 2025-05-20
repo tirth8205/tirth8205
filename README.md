@@ -40,4 +40,4 @@ Transformer models, Signal Processing, Human-Computer Interaction, Semantic Sear
 
 ---
 
-*"Creating AI that's clear, impactful, and human-centered."*
+*"~ in life we're always learning"*
