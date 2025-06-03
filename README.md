@@ -19,17 +19,26 @@ Check out my [GitHub repositories](https://github.com/tirth8205?tab=repositories
 
 ## Technical Skills
 
-### Languages
-Python, JavaScript, C/C++, SQL, HTML/CSS, Java
+### Programming Languages
+Python, C/C++, CUDA C, JavaScript, SQL, Java
 
-### Frameworks & Libraries
-FastAPI, LangChain, PyTorch, TensorFlow, Streamlit, Scikit-learn, Tkinter, spaCy, Hugging Face, MNE-Python, OpenCV, Pandas, NumPy, Qdrant, Faiss, NetworkX
+### ML Frameworks & Libraries
+PyTorch, TensorFlow, JAX, Transformers, Scikit-learn, Hugging Face, spaCy, MNE-Python
 
-### Tools & Platforms
-Git, Docker, Jupyter, Weights & Biases
+### GPU Programming & HPC
+CUDA, TensorRT, Triton (basic), OpenMP, Numba, Memory Optimisation
 
-### Specializations
-Transformer models, Signal Processing, Human-Computer Interaction, Semantic Search
+### Data Processing & Compute
+Pandas, NumPy, OpenCV, NetworkX, Qdrant, Faiss
+
+### Development Frameworks
+FastAPI, LangChain, Streamlit, Docker, Git
+
+### Development Tools
+Jupyter, NVIDIA Profiling Tools, Weights & Biases, Linux
+
+### Specialisations
+Model Inference Optimisation, Signal Processing, Semantic Search, Graph Analysis
 
 ## Connect With Me
 - 🌐 **Website**: [tirthkanani.com](https://tirthkanani.com)
