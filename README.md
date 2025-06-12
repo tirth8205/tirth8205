@@ -1,11 +1,11 @@
 # Tirth Kanani - AI & ML Engineer
 
 ## About Me
-Hey there! I'm a Software & Machine Learning Engineer based in the UK, with roots in India and a strong foundation in Computer Science. I hold a Master's degree in CS with a focus on Human-Computer Interaction from the University of Birmingham.
+Hi! I am a UK-based Software & Machine Learning Engineer with Indian roots and a strong computer science background. I have a Master's in CS with a specialisation in Human-Computer Interaction from the University of Birmingham.
 
-I'm passionate about using AI and machine learning not just to solve tough problems, but to build thoughtful, user-centered solutions that make a real impact. Whether it's writing clean, scalable code or collaborating on open-source projects, I love blending technical depth with human-focused design.
+I believe in applying AI and machine learning not only to tackle difficult challenges, but also to create deliberate, user-centric solutions that have a meaningful effect. From writing tidy, scalable code to working on open-source initiatives, I enjoy combining technical substance with human-centered design.
 
-Currently, I'm exploring new opportunities where I can combine my skills in AI, ML, and software engineering to build innovative, meaningful tech. Let's connect if you're working on something exciting-or just want to geek out over cool ideas!
+I am currently looking for new opportunities where I can leverage my AI, ML, and software engineering skills to create innovative, impactful tech. Let's stay in touch if you're building something cool- or just want to geek out about awesome ideas!
 
 ## Expertise
 - Language models and semantic search systems for actionable insights
