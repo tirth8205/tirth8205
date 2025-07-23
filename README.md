@@ -1,7 +1,7 @@
 # Tirth Kanani - AI & ML Engineer
 
 ## About Me
-Hi! I am a UK-based Software & Machine Learning Engineer with Indian roots and a strong computer science background. I have a Master's in CS with a specialisation in Human-Computer Interaction from the University of Birmingham.
+Hi! I am a UK-based Software & Machine Learning Engineer with Indian roots and a strong computer science background. I have a Master's in Computer Science with a specialisation in Human Centric AI from the University of Birmingham.
 
 I believe in applying AI and machine learning not only to tackle difficult challenges, but also to create deliberate, user-centric solutions that have a meaningful effect. From writing tidy, scalable code to working on open-source initiatives, I enjoy combining technical substance with human-centered design.
 
