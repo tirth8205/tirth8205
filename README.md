@@ -1,52 +1,41 @@
-# Tirth Kanani - AI & ML Engineer
+# Tirth Kanani
 
-## About Me
-Hi! I am a UK-based Software & Machine Learning Engineer with Indian roots and a strong computer science background. I have a Master's in Computer Science with a specialisation in Human Centric AI from the University of Birmingham.
+**AI/ML Engineer**
 
-I believe in applying AI and machine learning not only to tackle difficult challenges, but also to create deliberate, user-centric solutions that have a meaningful effect. From writing tidy, scalable code to working on open-source initiatives, I enjoy combining technical substance with human-centered design.
+I'm a software engineer who builds machine learning systems. I like working on different types of AI projects - from chatbots and image recognition to predicting data trends. Sometimes I also work on brain-computer interface stuff, which is pretty cool.
 
-I am currently looking for new opportunities where I can leverage my AI, ML, and software engineering skills to create innovative, impactful tech. Let's stay in touch if you're building something cool- or just want to geek out about awesome ideas!
+I enjoy the problem-solving side of ML engineering and figuring out how to make models work well in real applications.
 
-## Expertise
-- Language models and semantic search systems for actionable insights
-- Brain-computer interfaces for neural signal decoding
-- Knowledge graph development for efficient data connections
-- Explainable AI implementations ensuring transparency
-- Applied AI in neuroscience and academic research domains
+## What I Build
 
-## Projects
-Check out my [GitHub repositories](https://github.com/tirth8205?tab=repositories) to see what I'm currently working on and the types of projects I'm passionate about!
+**Text and Language Stuff** — Working with large language models, chatbots, and text processing  
+**Computer Vision** — Image classification, object detection, and visual AI systems  
+**Data Prediction** — Building models to forecast trends and spot patterns in data  
+**Neural Interfaces** — Experimenting with brain signals and cognitive computing (research side)  
+**Web Applications** — Full-stack development with ML backends and APIs
 
-## Technical Skills
+## Tech Stack
 
-### Programming Languages
-Python, C/C++, CUDA C, JavaScript, SQL, Java
+**Languages:** Python, JavaScript, C++, SQL  
+**ML Libraries:** PyTorch, TensorFlow, scikit-learn, OpenCV  
+**Web/API:** FastAPI, Flask, React, Node.js  
+**Data:** Pandas, NumPy, PostgreSQL, MongoDB  
+**Cloud/Tools:** Docker, Git, AWS, Google Cloud
 
-### ML Frameworks & Libraries
-PyTorch, TensorFlow, JAX, Transformers, Scikit-learn, Hugging Face, spaCy, MNE-Python
+## What I'm Learning
 
-### GPU Programming & HPC
-CUDA, TensorRT, Triton (basic), OpenMP, Numba, Memory Optimisation
+- Fine-tuning models for specific use cases
+- Building better data pipelines and MLOps workflows  
+- Computer vision applications in real-world scenarios
+- Time series forecasting and anomaly detection
+- Making ML models production-ready and scalable
 
-### Data Processing & Compute
-Pandas, NumPy, OpenCV, NetworkX, Qdrant, Faiss
+## Get in Touch
 
-### Development Frameworks
-FastAPI, LangChain, Streamlit, Docker, Git
-
-### Development Tools
-Jupyter, NVIDIA Profiling Tools, Weights & Biases, Linux
-
-### Specialisations
-Model Inference Optimisation, Signal Processing, Semantic Search, Graph Analysis
-
-## Connect With Me
-- 🌐 **Website**: [tirthkanani.com](https://tirthkanani.com)
-- 💼 **LinkedIn**: [Tirth Kanani](https://www.linkedin.com/in/tirthkanani/)
-- 📧 **Email**: tirthkanani18@gmail.com
-- 🐙 **GitHub**: [tirth8205](https://github.com/tirth8205)
-- ✍️ **Medium**: [Tirth Kanani](https://medium.com/@tirthkanani)
+**Email:** tirthkanani18@gmail.com  
+**Web:** [tirthkanani.com](https://tirthkanani.com)  
+**GitHub:** [tirth8205](https://github.com/tirth8205)
 
 ---
 
-*"~ in life we're always learning"*
+*Always learning, always building.*
