@@ -2,40 +2,38 @@
 
 **AI/ML Engineer**
 
-I'm a software engineer who builds machine learning systems. I like working on different types of AI projects - from chatbots and image recognition to predicting data trends. Sometimes I also work on brain-computer interface stuff, which is pretty cool.
+I'm an AI engineer specializing in building production-grade systems with large language models, multi-agent architectures, and scalable infrastructure. With a background in research and deployment, I bridge cutting-edge AI with real-world impact—scaling solutions to 150K+ users, reducing hallucinations by 40%, and winning hackathons for autonomous agent platforms.
 
-I enjoy the problem-solving side of ML engineering and figuring out how to make models work well in real applications.
+I thrive on solving complex problems, from architecting RAG pipelines to ensuring AI safety and reliability in high-stakes environments.
 
-## What I Build
-
-**Text and Language Stuff** — Working with large language models, chatbots, and text processing  
-**Computer Vision** — Image classification, object detection, and visual AI systems  
-**Data Prediction** — Building models to forecast trends and spot patterns in data  
-**Neural Interfaces** — Experimenting with brain signals and cognitive computing (research side)  
-**Web Applications** — Full-stack development with ML backends and APIs
+## Core Expertise
+- **LLMs & Agents**: Multi-agent orchestration (LangGraph, LangChain), fine-tuning (Llama, Mistral), RAG systems, prompt engineering, and evaluation frameworks for reasoning and hallucination mitigation.
+- **AI Infrastructure**: AWS (SageMaker, Kubernetes, CloudWatch), Docker, CI/CD, MLOps for 99%+ uptime deployments.
+- **Research & Analysis**: Graph neural networks (GNNs like GraphSAGE, GAT), anomaly detection, AI safety (alignment, oversight), and empirical evaluations on 18K+ test cases.
+- **Full-Stack Integration**: Python/FastAPI backends, Redis/Qdrant for state management, WebSockets for real-time apps.
 
 ## Tech Stack
+**Languages & Frameworks:** Python (PyTorch, Hugging Face), SQL, FastAPI, LangChain/LangGraph  
+**Data & ML:** Pandas, NumPy, Scikit-learn, Transformers, Weights & Biases  
+**Cloud & Tools:** AWS/GCP, Docker, Kubernetes, Git, Redis, Qdrant  
+**Other:** GraphQL, CUDA/GPU optimization, A/B testing
 
-**Languages:** Python, JavaScript, C++, SQL  
-**ML Libraries:** PyTorch, TensorFlow, scikit-learn, OpenCV  
-**Web/API:** FastAPI, Flask, React, Node.js  
-**Data:** Pandas, NumPy, PostgreSQL, MongoDB  
-**Cloud/Tools:** Docker, Git, AWS, Google Cloud
+## Current Focus
+- Advancing responsible AI through Perplexity fellowship: Governance, bias mitigation, and scalable oversight.
+- Exploring mechanistic interpretability and weak-to-strong generalization for safer AI systems.
+- Building decentralized agent platforms for enterprise automation.
 
-## What I'm Learning
-
-- Fine-tuning models for specific use cases
-- Building better data pipelines and MLOps workflows  
-- Computer vision applications in real-world scenarios
-- Time series forecasting and anomaly detection
-- Making ML models production-ready and scalable
+## Achievements
+- 1st Place, Epiminds Multi-Agent Hackathon (2025)  
+- Valedictorian, University of Birmingham MSc (2024)  
+- Employee of the Year, Inzeitech (2024)  
 
 ## Get in Touch
-
 **Email:** tirthkanani18@gmail.com  
-**Web:** [tirthkanani.com](https://tirthkanani.com)  
-**GitHub:** [tirth8205](https://github.com/tirth8205)
+**LinkedIn:** [linkedin.com/in/tirthkanani](https://linkedin.com/in/tirthkanani)  
+**Website:** [tirthkanani.com](https://tirthkanani.com)  
+**GitHub:** [tirth8205](https://github.com/tirth8205)  
 
 ---
 
-*Always learning, always building.*
+*Building reliable AI that scales—always iterating.*
