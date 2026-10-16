@@ -1,11 +1,28 @@
-Tirth Kanani
+# Tirth Kanani
 
-I am an AI engineer and technical founder based in London. I build production-grade tools and products that developers actually use. I created [code-review-graph](https://github.com/tirth8205/code-review-graph), an open-source developer tool that has reached <!--STARS-->32,100<!--/STARS-->+ GitHub stars and <!--FORKS-->2,900<!--/FORKS-->+ forks. Shipped as a Claude Code plugin with full MCP server integration, it uses Tree-sitter AST parsing across 23 languages to build a persistent incremental knowledge graph. It re-indexes a 2,900-file monorepo in under two seconds and delivers 6.8 times average context compression, up to 49 times on large monorepos. I published reproducible benchmarks on real repositories including httpx, FastAPI and Next.js, added a D3.js visualisation, and maintain an active community that shapes its roadmap.
+I'm an AI engineer and technical founder based in Oxford. I enjoy building things, particularly tools that make developers' lives easier.
 
-As sole technical founder I also shipped [CrumbleUX](https://crumbleux.com), a real-time VLM product for design critique, from initial idea to paying customers in weeks. I worked in the University of Birmingham HCI and AI Lab building evaluation pipelines and Graph Neural Networks for multi-agent reliability.
+I built [code-review-graph](https://github.com/tirth8205/code-review-graph), an open-source tool that helps AI coding agents understand how a codebase fits together without repeatedly searching through entire repositories.
 
-I won first place at the Epiminds Multi-Agent Hackathon 2025 with SupplyMinds and open-sourced MERIT and Jailbreak-Eval, my evaluation and red-teaming frameworks.
+[![GitHub Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square&label=Stars)](https://github.com/tirth8205/code-review-graph/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tirth8205/code-review-graph?style=flat-square&label=Forks)](https://github.com/tirth8205/code-review-graph/forks)
 
-Get in touch at tirthkanani18@gmail.com. You can also find me on [LinkedIn](https://linkedin.com/in/tirthkanani), on my [website](https://tirthkanani.com), or on [GitHub](https://github.com/tirth8205).
+It started as a problem I kept running into while working with coding agents. I wanted them to understand how different parts of a codebase connect, rather than having to figure everything out from scratch each time.
 
-Building reliable AI that scales — always iterating.
+The project uses Tree-sitter to build a knowledge graph of functions, classes and dependencies. It supports multiple programming languages, integrates with Claude Code and other coding agents through MCP, and updates incrementally as the code changes.
+
+I've also published reproducible benchmarks using real repositories, including FastAPI, httpx and Next.js, and built an interactive D3.js visualisation to explore the graph.
+
+I've had some lovely opportunities to share what I've been working on, including demoing code-review-graph on stage at Anthropic's Claude Founder House in London.
+
+More recently, I was selected as one of 35 engineers from over 1,500 applicants for the Future States Hackathon at 10 Downing Street, organised by 10DS and the Cabinet Office. We spent two days working alongside civil servants on challenges affecting public services across the UK. It was a great experience getting to build with people who understand these problems first-hand.
+
+Beyond developer tools, I built [CrumbleUX](https://crumbleux.com), a tool that uses vision models to review interfaces and identify usability issues. I took it from an idea to paying customers in a matter of weeks.
+
+Previously, I worked at the University of Birmingham's HCI and AI Lab, researching multi-agent reliability, evaluation methods and graph neural networks.
+
+Outside of work, I enjoy experimenting with new ideas, contributing to open source and meeting people building interesting things.
+
+You can find me on [LinkedIn](https://linkedin.com/in/tirthkanani), [my website](https://tirthkanani.com) or [GitHub](https://github.com/tirth8205).
+
+Feel free to reach out at [tirthkanani18@gmail.com](mailto:tirthkanani18@gmail.com).
