@@ -2,7 +2,7 @@
 
 I'm an AI engineer and technical founder based in Oxford. I enjoy building things, particularly tools that make developers' lives easier.
 
-I built [code-review-graph](https://github.com/tirth8205/code-review-graph), an open-source tool that helps AI coding agents understand how a codebase fits together without repeatedly searching through entire repositories. It has reached <!--STARS-->32,400<!--/STARS-->+ GitHub stars and <!--FORKS-->2,900<!--/FORKS-->+ forks.
+I built [code-review-graph](https://github.com/tirth8205/code-review-graph), an open-source tool that helps AI coding agents understand how a codebase fits together without repeatedly searching through entire repositories. It has reached <!--STARS-->32,500<!--/STARS-->+ GitHub stars and <!--FORKS-->2,900<!--/FORKS-->+ forks.
 
 It started as a problem I kept running into while working with coding agents. I wanted them to understand how different parts of a codebase connect, rather than having to figure everything out from scratch each time.
 
